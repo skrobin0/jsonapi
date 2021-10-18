@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Professional Photography",
+      "description": "Stimulate a critically engaged practice to prepare  a range of related careers you the students will explore a wide range of relevant contemporary theories  which is designed to.",
+      "sit": 35,
+      "duration": "2 year",
+      "purchase": 350,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1000,
+      "img": "https://i.ibb.co/kJhDNRW/pro-f.jpg"
+    },
+
+    {
+      "name": "International Photography",
+      "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare  a range of related careers.",
+      "sit": 28,
+      "duration": "1 year",
+      "purchase": 250,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1001,
+      "img": "https://i.ibb.co/TYwMPz1/Inter-na.jpg"
+    },
+
+    {
+      "name": "Wild-life Photography",
+      "description": "Wildlife photography is a genre of photography concerned with documenting various forms of wildlife in their natural habitat. As well as requiring photography skills, wildlife photographers may need field craft skills",
+      "sit": 28,
+      "duration": "1 year",
+      "purchase": 230,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1003,
+      "img": "https://i.ibb.co/j511kMJ/A-bold-black-white-image-of-a-tiger.jpg"
+    },
+
+    {
+        "name": "B.s.s Photography",
+        "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare  a range of related careers. ",
+        "sit": 25,
+        "duration": "3 years",
+        "purchase": 270,
+        "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+        "id": 1002,
+        "img": "https://i.ibb.co/dgnj8kp/bss.jpg"
+      },
+
+    {
+      "name": "Basic Photography",
+      "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare  a range of related careers.",
+      "sit": 38,
+      "duration": "3 week",
+      "purchase": 380,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1004,
+      "img": "https://i.ibb.co/sCj7pLN/basic-p.jpg"
+    },
+
+    {
+      "name": "The Foundation course in Photography",
+      "description": "Stimulate a critically engaged practice to prepare  a range of related careers you the students will explore a wide range of relevant contemporary theories  which is designed to.",
+      "sit": 32,
+      "duration": "2 mounth",
+      "purchase": 300,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1005,
+      "img": "https://i.ibb.co/vCWJNJQ/pounda.jpg"
+    },
+
+    {
+      "name": "Basic Photoshop Workshop",
+      "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare  a range of related careers.",
+      "sit": 30,
+      "duration": "2 week",
+      "purchase": 310,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1006,
+      "img": "https://i.ibb.co/RpYt8vk/photoshop.jpg"
+    },
+
+    {
+      "name": "Wedding Photography",
+      "description": "Wedding photography is a specialty in photography that is primarily focused on the photography of events and activities relating to weddings. It may include other types of portrait photography of the couple before the official wedding day, such as a pre-wedding engagement session.",
+      "sit": 60,
+      "duration": "5 week",
+      "purchase": 400,
+      "eligibility" :"A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1007,
+      "img": "https://i.ibb.co/tYt5V7c/wding.jpg"
+    },
+
+    {
+      "name": "Natural Photography",
+      "description": "Nature photography is a wide range of photography taken outdoors and devoted to displaying natural elements such as landscapes, wildlife, plants, and close-ups of natural scenes and textures.",
+      "sit": 34,
+      "duration": "3 mounth",
+      "purchase": 330,
+      "eligibility" :"A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions",
+      "id": 1008,
+      "img": "https://i.ibb.co/LRct7zP/natu.jpg"
+    }
+
+]
+
+
+
+
+
+
+
+
+
+
